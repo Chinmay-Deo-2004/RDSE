@@ -2,6 +2,17 @@
 
 # RDSE: Real-Time Directional Speech Enhancement
 
+<div align="center">
+
+[![Project Page](https://img.shields.io/badge/Project_Page-Audio_Demos-blue?style=for-the-badge&logo=googlechrome)](https://danish-research.github.io/rdse-research.github.io/)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.12476-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2610.12476)
+[![Dataset](https://img.shields.io/badge/Dataset-SpARZ_on_HF-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/datasets/rdse-research/SpARZ)
+[![Conference](https://img.shields.io/badge/Accepted_at-IEEE_IECON_2026-brightgreen?style=for-the-badge)](https://arxiv.org/abs/2610.12476)
+
+### 🌐 **[Interactive Project Homepage & Live Audio Demos](https://danish-research.github.io/rdse-research.github.io/)**
+
+</div>
+
 This repository maintains and documents the open-source MATLAB implementation of **RDSE (Real-Time Directional Speech Enhancement Framework for Dual-Mic Commodity Smartphones)**.
 
 The repository includes MATLAB scripts for offline audio processing and live recording, pretrained models, sample audio recordings, and evaluation utilities to facilitate reproducibility and experimentation.
