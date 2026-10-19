@@ -9,7 +9,7 @@
 [![Dataset](https://img.shields.io/badge/Dataset-SpARZ_on_HF-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/datasets/rdse-research/SpARZ)
 [![Conference](https://img.shields.io/badge/Accepted_at-IEEE_IECON_2026-brightgreen?style=for-the-badge)](https://arxiv.org/abs/2610.12476)
 
-### 🌐 **[Interactive Project Homepage & Live Audio Demos](https://danish-research.github.io/rdse-research.github.io/)**
+### 🌐 **[Project Homepage & Live Audio Demos](https://danish-research.github.io/rdse-research.github.io/)**
 
 </div>
 
